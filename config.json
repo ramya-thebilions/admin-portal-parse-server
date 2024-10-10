@@ -1,0 +1,7 @@
+{
+  "appId": "f8sqXPLdtN0BsldkoDAL0PHVZxkG2tnnS6pf7j22",
+  "masterKey": "OOEOpTIMDX81qrrtESik62nCOzY85z7GFQKOoimm",
+  "appName": "development",
+  "cloud": "./cloud/main",
+  "databaseURI": "mongodb://127.0.0.1:27017/?directConnection=true&serverSelectionTimeoutMS=2000&appName=mongosh+2.2.4"
+}

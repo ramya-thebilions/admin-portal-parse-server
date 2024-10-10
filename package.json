@@ -1,0 +1,11 @@
+{
+  "name": "development",
+  "description": "parse-server for development",
+  "scripts": {
+    "start": "parse-server config.json"
+  },
+  "dependencies": {
+    "parse-server": "^7.1.0",
+    "react-admin": "^5.0.2"
+  }
+}
